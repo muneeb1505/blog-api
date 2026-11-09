@@ -1,3 +1,6 @@
+## Live Demo
+https://blog-api-ggn1.onrender.com/docs
+
 # Blog API
 
 A FastAPI + PostgreSQL blog API with real authentication (JWT) and role-based authorization.
